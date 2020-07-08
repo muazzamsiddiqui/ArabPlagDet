@@ -1,4 +1,14 @@
-Code and data accompanying the Arabic Plagiarism Detection project
+#Plagiarism Detection in Arabic Documents
+
+##Contributors:
+
+###Investigators
+
+Kamal JAmbi (PI), Muazzam Siddiqui (Co-I), Imtiaz Khan (Co-I)
+
+###Research Assistant/Associates
+
+Salma Elhaj, Abobakar Bagais, Muhammad Aqib, Muhammad Imran, Fahd Bahazaq
 
 This project undertook the development of a plagiarism detection system for Arabic language to counter plagiarism, i.e. copying others work without proper acknowledgement, which has become one of the most threatening problem in academic community. The Web technology has led to an increased number of plagiarism cases in recent years, thereby making manual plagiarism detection a difficult (or almost impossible) task. Even though automatic plagiarism detection is not a novel problem as many plagiarism detection tools (e.g. Turnitin or iThenticate) have been developed, mostly such tools are available for English or other European languages; for Arabic language such tools are still very much under-developed. The existing plagiarism detection tools cannot be adapted for Arabic language because of its rich and complex morphological structure which makes language processing a challenging task. Research in automatic plagiarism detection for Arabic language is much demanding because Arabic is the fourth most widely spoken language in the world, and most Arab countries, including Kingdom of Saudi Arabia, have adopted the use of e-learning systems in their educational institutions. In an e-learning environment, where students have an access to the World Wide Web, the problem of plagiarism can be even more threatening than before. This calls for serious attention to develop state-of-the-art tools to automatically detect plagiarism in Arabic, and also help students and researchers avoid plagiarizing others work.
 
