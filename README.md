@@ -10,7 +10,7 @@ We believe the developed system will help protect academic integrity in particul
 
 ### Investigators
 
-Kamal JAmbi (PI), Muazzam Siddiqui (Co-I), Imtiaz Khan (Co-I)
+Kamal Jambi (PI), Muazzam Siddiqui (Co-I), Imtiaz Khan (Co-I)
 
 ### Research Assistant/Associates
 
