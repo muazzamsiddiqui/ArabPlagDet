@@ -1,12 +1,12 @@
-#Plagiarism Detection in Arabic Documents
+# Plagiarism Detection in Arabic Documents
 
-##Contributors:
+## Contributors:
 
-###Investigators
+### Investigators
 
 Kamal JAmbi (PI), Muazzam Siddiqui (Co-I), Imtiaz Khan (Co-I)
 
-###Research Assistant/Associates
+### Research Assistant/Associates
 
 Salma Elhaj, Abobakar Bagais, Muhammad Aqib, Muhammad Imran, Fahd Bahazaq
 
